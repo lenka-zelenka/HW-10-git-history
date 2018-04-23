@@ -4,3 +4,6 @@ commit 2 in develop
 На ветке hotfix
 create branch feature2 
 commit in branch feature2 
+
+create branch release
+commit 2 release
